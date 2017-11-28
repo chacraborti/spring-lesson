@@ -1,3 +1,5 @@
+package com.epam.spring.beans;
+
 public class Client {
     private String id;
     private String fullName;
